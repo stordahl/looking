@@ -10,7 +10,7 @@
 	</video>
 
 	<div>
-		<h3>l o o k i n g &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; out over the ocean,</h3> 
+		<h3>l o o k i n g &nbsp;out over the ocean,</h3> 
 		<h3>i forgot where I thought I was going</h3>
 	</div>
 </main>
